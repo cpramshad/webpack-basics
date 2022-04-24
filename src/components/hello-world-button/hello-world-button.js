@@ -1,5 +1,5 @@
-import './hello-world-button.css';
-
+// import './hello-world-button.css';
+import './hello-world-button2.scss';
 class helloWorldButton {
     render() {
         const button = document.createElement('button');
